@@ -1,0 +1,55 @@
+# 🧠 Eru AI – Narrative Engine
+
+Eru AI is an AI-assisted narrative engine designed to preserve,
+extend, and contextualize the Chain of Lands universe.
+
+Eru is not a storyteller.
+It is a **witness, archivist, and consistency layer**.
+
+---
+
+## 🎯 Purpose
+
+Eru exists to:
+- Maintain canonical lore consistency
+- React to on-chain and off-chain events
+- Generate contextual narrative overlays
+- Prevent narrative contradictions
+
+---
+
+## 🧩 Core Responsibilities
+
+- Observe events
+- Validate lore alignment
+- Generate narrative output
+- Preserve historical memory
+
+---
+
+## 🧠 Design Philosophy
+
+Eru does not create freely.
+It operates within **strict narrative constraints**.
+
+Creativity is bounded by:
+- Canon rules
+- Faction identity
+- Temporal context
+
+---
+
+## 🔌 Integration
+
+Eru AI is designed to be consumed by:
+- Interactive maps
+- Frontend UI overlays
+- Governance systems
+- Seasonal story engines
+
+---
+
+## ⚠️ Disclaimer
+
+Eru AI does not provide financial advice.
+It is a narrative system only.

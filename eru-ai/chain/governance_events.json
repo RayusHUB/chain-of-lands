@@ -1,0 +1,11 @@
+[
+  {
+    "type": "GOVERNANCE_DECISION",
+    "decisionId": "GD-001",
+    "topic": "Faction Balance",
+    "decision": "WEAKEN_ELVEN_INFLUENCE",
+    "region": "Elven Realms",
+    "approvedBy": "Community",
+    "blockTime": 1710002400
+  }
+]

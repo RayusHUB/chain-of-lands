@@ -1,0 +1,17 @@
+[
+  {
+    "type": "FACTION_DOMINANCE_CHANGED",
+    "region": "Elven Realms",
+    "faction": "Elves",
+    "oldValue": 62,
+    "newValue": 47,
+    "blockTime": 1710000000
+  },
+  {
+    "type": "BATTLE_OCCURRED",
+    "region": "Dark Lands",
+    "faction": "Dark",
+    "severity": "high",
+    "blockTime": 1710001200
+  }
+]

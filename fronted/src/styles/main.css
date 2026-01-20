@@ -1,0 +1,58 @@
+body {
+  margin: 0;
+  background: #0b0e14;
+  color: #fff;
+  font-family: Arial, sans-serif;
+}
+
+#map-container {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+}
+
+#world-map {
+  width: 100%;
+  height: auto;
+  display: block;
+  user-select: none;
+}
+
+
+.region {
+  position: absolute;
+  border-radius: 50%;
+  border: 2px solid rgba(255,255,255,0.4);
+  transform: translate(-50%, -50%);
+  cursor: pointer;
+}
+
+.region:hover {
+  border-color: #ffd36a;
+}
+#eru-panel {
+  position: fixed;
+  right: -400px;
+  top: 0;
+  width: 400px;
+  height: 100vh;
+  background: #111;
+  padding: 20px;
+  transition: right 0.3s ease;
+  overflow-y: auto;
+}
+
+#eru-panel.open {
+  right: 0;
+}
+
+#eru-panel h2 {
+  margin-top: 0;
+  color: #ffd36a;
+}
+
+#eru-panel p {
+  line-height: 1.6;
+  color: #ddd;
+}

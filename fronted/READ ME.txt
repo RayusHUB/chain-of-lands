@@ -1,0 +1,14 @@
+# 🗺️ Chain of Lands – Interactive Map
+
+This frontend module powers the interactive world map of Chain of Lands.
+
+The map is designed as a living interface that reacts to:
+- User interaction
+- On-chain data
+- Seasonal narrative changes
+
+This module will later integrate:
+- Wallet connections
+- Faction ownership data
+- Token metrics
+- Eru AI narrative overlays

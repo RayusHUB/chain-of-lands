@@ -1,0 +1,11 @@
+User clicks on a region
+        ↓
+Frontend (fetch request)
+        ↓
+Eru AI API (/narrate)
+        ↓
+Lore & Canon validation
+        ↓
+Narrative JSON response
+        ↓
+Frontend popup / side panel
