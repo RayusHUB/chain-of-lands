@@ -161,3 +161,6 @@ Chain of Lands is an experiment in merging myth, technology, and community.
 It is built slowly, deliberately, and transparently — because worlds worth living in are not rushed.
 
 Welcome to the lands.
+
+🔗 Twitter (X): https://x.com/CHAINOFLANDS
+
